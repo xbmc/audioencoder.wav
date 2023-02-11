@@ -16,18 +16,34 @@
     <assets>
       <icon>icon.png</icon>
     </assets>
+    <summary lang="ca_ES">Codificador de format d&apos;arxiu d&apos;àudio de forma d&apos;ona</summary>
     <summary lang="da_DK">Waveform lydfilformat indkoder</summary>
     <summary lang="de_DE">Waveform Audio File Format Encoder</summary>
     <summary lang="en_GB">Waveform Audio File Format Encoder</summary>
+    <summary lang="es_ES">Codificador de Fomato de Archivo de Audio Waveform</summary>
+    <summary lang="es_MX">Codificador de formato de archivo de audio Waveform</summary>
+    <summary lang="fi_FI">Waveform-äänitiedostojen dekooderi</summary>
+    <summary lang="fr_FR">Encodeur de fichier WAV</summary>
+    <summary lang="hr_HR">Waveform format zvučnog enkôdera</summary>
+    <summary lang="it_IT">Waveform Audio File Format Encoder</summary>
     <summary lang="ko_KR">Waveform 오디오 파일 형식 인코더</summary>
     <summary lang="pl_PL">Koder formatu pliku dźwiękowego Waveform</summary>
+    <summary lang="pt_PT">Codificador audio em formato de ficheiro de onda</summary>
     <summary lang="ru_RU">Кодировщик аудиофайлов Waveform (WAV)</summary>
     <summary lang="zh_CN">Waveform 音频文件格式编码器</summary>
+    <description lang="ca_ES">WAV (Waveform Audio Format) és un format de so sense comprimir.</description>
     <description lang="da_DK">WAV (Waveform Audio Format) er et ukomprimeret lydformat.</description>
     <description lang="de_DE">WAV (Waveform Audio Format) ist ein unkomprimiertes Klangformat.</description>
     <description lang="en_GB">WAV (Waveform Audio Format) is an uncompressed sound format.</description>
+    <description lang="es_ES">WAV (Waveform Audio Format) es un formato de sonido sin compresión.</description>
+    <description lang="es_MX">WAV (Formato de audio Waveform, Waveform Audio Format, N. del T.) es un formato de sonido sin compresión.</description>
+    <description lang="fi_FI">WAV (Waveform Audio Format) on pakkaamaton äänimuoto.</description>
+    <description lang="fr_FR">Le format audio WAV (Waveform Audio Format) est non-compressé.</description>
+    <description lang="hr_HR">WAV (Waveform zvučni format) ne nekompresirani zvučni format.</description>
+    <description lang="it_IT">WAV (Waveform Audio Format) è un formato audio non compresso.</description>
     <description lang="ko_KR">WAV(Waveform Audio Format)는 압축되지 않은 사운드 형식입니다.</description>
     <description lang="pl_PL">WAV (Waveform Audio Format) to nieskompresowany format dźwięku.</description>
+    <description lang="pt_PT">WAV (forma de onda áudio) é um formato de som sem compressão.</description>
     <description lang="ru_RU">WAV (Waveform Audio Format) - это формат аудиофайла с несжатым звуковым потоком.</description>
     <description lang="zh_CN">WAV（Waveform 音频格式）是一种未压缩的声音格式。</description>
   </extension>
